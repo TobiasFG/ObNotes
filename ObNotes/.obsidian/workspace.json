@@ -6,19 +6,23 @@
       {
         "id": "a836316abc20b3dc",
         "type": "tabs",
+        "dimension": 74.79338842975206,
         "children": [
           {
             "id": "aa178ddd9dae67a4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
+                "file": "Overview.canvas",
+                "viewState": {
+                  "x": 348.6125208315549,
+                  "y": -180.33161851627426,
+                  "zoom": -0.4796517900625868
+                }
               },
-              "icon": "lucide-file",
-              "title": "Welcome"
+              "icon": "lucide-layout-dashboard",
+              "title": "Overview"
             }
           }
         ]
@@ -26,6 +30,7 @@
       {
         "id": "8a0f08c2ab12aad4",
         "type": "tabs",
+        "dimension": 25.206611570247933,
         "children": [
           {
             "id": "3c1340cf2244b463",
@@ -94,7 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "67afbc182ba63729",
@@ -110,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Overview.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +125,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for Overview"
             }
           },
           {
@@ -129,12 +134,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Overview.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from Overview"
             }
           },
           {
@@ -158,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "Overview.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of Overview"
             }
           }
         ]
@@ -186,6 +191,11 @@
   },
   "active": "aa178ddd9dae67a4",
   "lastOpenFiles": [
+    "CSS/Colors.md",
+    "CSS/CSS.md",
+    "Overview.canvas",
+    "Untitled.md",
+    "CSS",
     "Welcome.md"
   ]
 }
