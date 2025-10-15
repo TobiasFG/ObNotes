@@ -12,17 +12,14 @@
             "id": "aa178ddd9dae67a4",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Overview.canvas",
-                "viewState": {
-                  "x": 340,
-                  "y": -259.5,
-                  "zoom": -0.4296842752432452
-                }
+                "file": "CSharp.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Overview"
+              "icon": "lucide-file",
+              "title": "CSharp"
             }
           }
         ]
@@ -191,10 +188,10 @@
   },
   "active": "aa178ddd9dae67a4",
   "lastOpenFiles": [
+    "Overview.canvas",
+    "CSharp.md",
     "CSS/Colors.md",
     "CSS/CSS.md",
-    "Overview.canvas",
-    "Untitled.md",
     "CSS",
     "Welcome.md"
   ]
