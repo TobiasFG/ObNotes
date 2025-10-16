@@ -17,6 +17,16 @@
 - Always inspect the latest repository state before acting. Do not assume this file is up to date.
 - Prefer read/search first: use fast, safe searches over the workspace (e.g., `rg`) to locate notes or references.
 - Keep changes minimal and surgical; avoid broad refactors.
+- Use Obsidian features to enhance the vault experience: wikilinks, embeds, block references, callouts, tags, backlinks, and canvases where appropriate. Prefer native Obsidian patterns over plain Markdown alternatives when it improves navigation or context.
+
+## Collaborative Note Workflow
+- Discuss first: before adding/updating substantial notes, align on goals, audience, scope, and key decisions in conversation.
+- Outline: propose a concise, small-first outline and section list; iterate until approved. Include a short list of optional additions (ideas to consider) without expanding the scope prematurely.
+- Decision callouts: codex is encouraged to propose explicit decision callouts (e.g., “We choose records for value objects”) to reduce ambiguity and mental load. These should be clearly marked and easy to revise.
+- Draft in chat: provide the first full draft in-message (no file changes yet).
+- Review: refine wording, structure, and examples based on feedback.
+- Commit: once approved, add or update the note in the vault following vault conventions.
+- Draft location: default to chat-only drafts unless the user explicitly requests a `ObNotes/Drafts/` file.
 
 ## Editing Rules
 - Preserve content and structure:
@@ -45,4 +55,3 @@
 ## Validation
 - After edits, re‑scan for broken links/references locally (search for the changed title/path).
 - Keep diffs focused and small so the user can review easily.
-
