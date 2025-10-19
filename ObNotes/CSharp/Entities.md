@@ -1,5 +1,3 @@
-#Entity #Entities
-
 Goal: tie value objects together under identity, host domain behavior, and stay persistence-friendly.
 
 ## Why

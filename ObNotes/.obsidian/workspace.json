@@ -11,17 +11,14 @@
             "id": "aa178ddd9dae67a4",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Overview.canvas",
-                "viewState": {
-                  "x": -72.23411057738133,
-                  "y": 114.00690129655095,
-                  "zoom": -2.24401310532775
-                }
+                "file": "CSharp/Data Modeling.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Overview"
+              "icon": "lucide-file",
+              "title": "Data Modeling"
             }
           }
         ]
@@ -173,12 +170,12 @@
   },
   "active": "aa178ddd9dae67a4",
   "lastOpenFiles": [
-    "CSharp/CSharp Notes.md",
-    "CSharp/Data Transfer Objects.md",
-    "CSharp/Single Value Objects.md",
+    "CSharp/Data Transfer Objects (DTOs).md",
+    "CSharp/Single Value Objects (SVOs).md",
     "CSharp/Entities.md",
     "CSharp/Data Modeling.md",
     "Overview.canvas",
+    "CSharp/CSharp Notes.md",
     "CSharp/Data Modeling",
     "CSharp",
     "CSS/CSS.md",
