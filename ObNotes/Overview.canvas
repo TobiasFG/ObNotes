@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"032b6035528cfc6f","type":"file","file":"CSS/Colors.md","x":257,"y":-519,"width":683,"height":519},
-		{"id":"81933a5bd79096b5","x":-260,"y":-480,"width":400,"height":400,"type":"file","file":"CSS/CSS.md"}
+		{"id":"81933a5bd79096b5","type":"file","file":"CSS/CSS.md","x":-260,"y":-480,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"c0e9b82941a397b0","fromNode":"81933a5bd79096b5","fromSide":"right","toNode":"032b6035528cfc6f","toSide":"left"}
